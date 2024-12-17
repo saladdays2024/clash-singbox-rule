@@ -132,6 +132,7 @@ dns:
     '+.googlevideo.com': 'https://[2606:4700:4700::1111]/dns-query'
   fake-ip-filter:
     - 'rule-set:cn_domain,private_domain,fix-direct'
+    - '+.googlevideo.com'
     - '*.lan'
     - '*.local'
     - '*.home.arpa'
