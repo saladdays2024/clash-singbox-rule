@@ -8,12 +8,14 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,saladdays.us.kg
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,nist.gov
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,istoreos.com
-DOMAIN-SUFFIX,gh.xmly.dev
+
+#域名匹配
+DOMAIN,gh.xmly.dev
+DOMAIN,saladdays.us.kg
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
