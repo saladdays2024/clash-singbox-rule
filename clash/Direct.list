@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,nist.gov
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,istoreos.com
+DOMAIN-SUFFIX,xmly.dev
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
