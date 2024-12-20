@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,istoreos.com
 #域名匹配
 DOMAIN,gh.xmly.dev
 DOMAIN,saladdays.us.kg
+DOMAIN,hongxingdl.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
